@@ -12,7 +12,7 @@ The extension isn't available on the Chrome Web Store, but you can install it ma
 
 Download the `new_format/extension` folder from the GitHub repository.
 
-**[Download Extension](https://download-directory.github.io/?url=https://github.com/FRojas1/PMT/tree/main/new_format/extension&filename=PMT-Extension)**
+**[Download Extension](https://download-directory.github.io/?url=https://github.com/asbmeyers/PMT/tree/formatting-fixes/main/new_format/extension&filename=PMT-Extension)**
 
 Extract the ZIP to it's own folder on your computer. Keep this folder somewhere permanent, since your browser needs access to it for the extension to work.
 
